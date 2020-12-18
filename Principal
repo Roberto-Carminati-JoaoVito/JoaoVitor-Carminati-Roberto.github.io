@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<link rel="stylesheet" href="p1.css">
+	<title>3ª FACCHU</title>
+	<meta charset="UTF-8">
+</head>
+<body>
+	<center>
+	<font color=black>
+	<p><h1>3ª FACCHU</h1></p>
+	</font>
+	<font color=white>
+	<p><h3>Formação Acadêmica e Cultural e Científica e Humanística e ...</h3></p>
+	<br><hr><br>
+	<p><h3>O QUE É:</h3></p>
+	<p><h3>Semana integrada de ensino, pesquisa e extensão do Instituto Federal Catarinense – Campus Brusque de maneira conjunta às outras instituições de ensino do município e região, evento de caráter integrador e não competitivo, proporcionando aos participantes experimentações e vivências culturais e acadêmicas diversas.</h3></p>
+	<br><hr><br>
+	<h3>PROGRAMAÇÃO:</h3>
+	<font color=white>
+		<table border="10" cellpadding="20">
+		<tr>
+		<th></th>
+		<th>08h – 09:45h</th>
+		<th>09:45h – 10h</th>
+		<th>10h – 11:45h</th>
+		</tr>
+		<tr>
+		<th>Sala 1</th>
+		<td><center>Ubunto</center></td>
+		<td><center>Ubunto</center></td>
+		<td><center>Ubunto</center></td>
+		</tr>
+		<tr>
+		<th>Sala 2</th>
+		<td><center>Ubunto</center></td>
+		<td><center>Ubunto</center></td>
+		<td><center>Ubunto</center></td>
+		</tr>
+		<tr>
+		<th>Sala 3</th>
+		<td><center>Ubunto</center></td>
+		<td><center>Ubunto</center></td>
+		<td><center>Ubunto</center></td>
+		</tr>
+		<tr>
+		<th>Laboratório 1</th>
+		<td><center>Ubunto</center></td>
+		<td><center>Ubunto</center></td>
+		<td><center>Ubunto</center></td>
+		</tr>
+		<tr>
+		<th>Laboratório 2</th>
+		<td><center>Ubunto</center></td>
+		<td><center>Ubunto</center></td>
+		<td><center>Ubunto</center></td>
+		</tr>
+		</table>
+	</font>
+	<br><br><hr><br>
+	<p><h3>DEMAIS AÇÕES:</h3></p>
+	<button><a href="Inscricao.html" target="_self">INSCRIÇÃO</button>
+	<br><br><hr><br>
+	<img src="https://cecom.ifc.edu.br/wp-content/uploads/sites/17/2015/10/Logo_IFC_horizontal_Brusque.png" height=105 width=320 alt="" />
+	</font>
+	</center>
+</body>
+</html>
