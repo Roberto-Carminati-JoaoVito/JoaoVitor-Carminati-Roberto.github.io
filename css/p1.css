@@ -1,0 +1,23 @@
+body{
+	background-attachment:fixed;
+	background-size:100%;
+	background-repeat:no-repeat;
+	background-color:black;
+	font-family: arial;
+	font-size: normal;
+	margin-top: 16px;
+	margin-left: 16px;
+	margin-right: 16px;
+	margin-button: 16px;
+    }
+button{
+	margin-right: 16px;
+}
+h1 {
+	background-color: white;
+	border-style: solid;
+	border-color: black;
+}
+p:hover {
+  background-color: white;
+}
